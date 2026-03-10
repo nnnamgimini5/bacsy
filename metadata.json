@@ -1,0 +1,8 @@
+{
+  "name": "Bác Sỹ AI - Hội Đồng Y Khoa Đa Ngành 1.1",
+  "description": "Tư vấn chuyên khoa kết hợp dinh dưỡng lâm sàng, hỗ trợ gọi video và ghi âm lời khai.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
